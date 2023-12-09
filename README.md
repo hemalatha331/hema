@@ -6,6 +6,7 @@
 
 
 <h1 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h1>
+  <h2>G2 DSA in Python</h2>
   <h2>Data Structures and Algorithms in Python</h2>
 </div>
 
