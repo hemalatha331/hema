@@ -40,15 +40,7 @@ SURE TRUST isn't just an institution; it's a nurturing ground, a guiding light, 
 
 ## Experience while attending session
 
-Attending daily course sessions and actively engaging in assignments and quizzes has been a transformative journey, a key pathway toward acquiring profound knowledge. Each session unfolded a wealth of insights, offering not just information but fostering a deeper understanding of the subject matter.
-
-Consistency became the cornerstone of this learning experience. Each day's dedication in attending these sessions translated into a gradual but substantial accumulation of knowledge. It wasn't merely about passive learning; it was about active participation, absorbing concepts, and applying them through assignments and quizzes.
-
-The assignments were more than tasks; they were opportunities to dive deeper, to grapple with the material, and to cultivate a hands-on understanding. Each quiz, meticulously prepared and earnestly answered, served as checkpoints, validating the knowledge gained and identifying areas for further exploration.
-
-This daily commitment wasn't just a routine; it was a commitment to self-improvement, a testament to the hunger for knowledge. It instilled discipline, honed critical thinking skills, and kindled a passion for continuous learning.
-
-The dividends reaped from this daily investment were immense. Concepts that once seemed daunting became familiar, and intricate details began to fall into place. The ability to apply learned knowledge in practical scenarios heightened, leading to a more comprehensive understanding of the subject matter.
+Daily course sessions and active engagement in assignments and quizzes have been transformative. Consistent dedication led to a gradual but significant accumulation of knowledge. Assignments and quizzes weren't just tasks; they were chances to deepen understanding and test knowledge. This commitment wasn't a routine; it was a drive for self-improvement and continuous learning. The payoff was immense: once daunting concepts became familiar, and practical application of knowledge improved significantly.
 
 ### Practical Assignments and Final Project
 
@@ -67,7 +59,8 @@ Below is a table summarizing the Practicals and final project completed during t
 
 ## Overall Experience of course
 
-"During my four-month journey in Data Structures and Algorithms in Python, guided by the dedicated Mr. Samuel John, I gained immense knowledge and a renewed passion for learning. Radha Kumari madam conducting Life Skills Training sessions were transformative, equipping us with invaluable tools for life's challenges.
+"During my four-month journey in Data Structures and Algorithms in Python, guided by the dedicated Mr. Samuel John, Mr. Samuel John sir is an incredibly dedicated individual, especially when it comes to coding and mentorship. His commitment to his craft is evident in the meticulous way he approaches coding challenges.Sir's coding skills are commendable, marked by a deep understanding of programming concepts and an ability to translate them into practical solutions.Moreover, his dedication extends beyond his own work. He willingly shares his knowledge and expertise with others and he is friendly mentor who understand students better, fostering a collaborative environment where everyone benefits from his insights. His patience and willingness to help others navigate the intricacies of coding make him an invaluable resource and a mentor figure to many.
+Radha Kumari madam conducting Life Skills Training sessions were transformative, equipping us with invaluable tools for life's challenges.
 
 What sets SURE Trust apart is its holistic approach, emphasizing discipline, social responsibility, and quality education over quantity. It nurtures well-rounded individuals through engaging activities like plantation drives and life skill development programs, fostering a commitment to social service.
 
